@@ -1,2 +1,2 @@
-# lambdaWithJava
-Lambda usando Java e estrutura do Spring
+# lambdaSpringCloundFunction
+Function AWS Lambda, executável localmente e no ambiente AWS
